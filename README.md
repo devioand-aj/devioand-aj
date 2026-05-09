@@ -35,4 +35,4 @@ I write and maintain a public engineering knowledge base at [devioand.com/doctri
 
 - Portfolio: [devioand.com](https://devioand.com)
 - Email: asad.javed@devioand.com
-- LinkedIn: [linkedin.com/in/yourhandle](https://linkedin.com/in/yourhandle)
+- LinkedIn: [linkedin.com/in/devioand-aj](https://www.linkedin.com/in/devioand-aj/)
